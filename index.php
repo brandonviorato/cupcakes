@@ -56,6 +56,7 @@
         }
         echo '</ul>';
         echo '<p>Order total: $' . $cost . '</p>';
+        echo '<a class="btn btn-primary" href="index.php">Return</a>';
     }
     ?>
 </div>
