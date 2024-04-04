@@ -25,19 +25,19 @@
                 <input type="text" id="name" name="name">
         
                 <label>Cupcake flavors:</label>
-                <label for="grasshopper"><input type="checkbox" name="flavor[]" value="grasshopper"> The Grasshopper</label>
+                <label for="grasshopper"><input type="checkbox" name="flavor[]" value="The Grasshopper"> The Grasshopper</label>
         
-                <label for="whiskeyMapleBacon"><input type="checkbox" name="flavor[]" value="whiskeyMapleBacon"> Whiskey Maple Bacon</label>
+                <label for="whiskeyMapleBacon"><input type="checkbox" name="flavor[]" value="Whiskey Maple Bacon"> Whiskey Maple Bacon</label>
         
-                <label for="carrotWalnut"><input type="checkbox" name="flavor[]" value="carrotWalnut"> Carrot Walnut</label>
+                <label for="carrotWalnut"><input type="checkbox" name="flavor[]" value="Carrot Walnut"> Carrot Walnut</label>
         
-                <label for="saltedCaramelCupcake"><input type="checkbox" name="flavor[]" value="saltedCaramelCupcake"> Salted Caramel Cupcake</label>
+                <label for="saltedCaramelCupcake"><input type="checkbox" name="flavor[]" value="Salted Caramel Cupcake"> Salted Caramel Cupcake</label>
         
-                <label for="redVelvet"><input type="checkbox" name="flavor[]" value="redVelvet"> Red Velvet</label>
+                <label for="redVelvet"><input type="checkbox" name="flavor[]" value="Red Velvet"> Red Velvet</label>
         
-                <label for="lemonDrop"><input type="checkbox" name="flavor[]" value="lemonDrop"> Lemon Drop</label>
+                <label for="lemonDrop"><input type="checkbox" name="flavor[]" value="Lemon Drop"> Lemon Drop</label>
         
-                <label for="tiramisu"><input type="checkbox" name="flavor[]" value="tiramisu"> Tiramisu</label>
+                <label for="tiramisu"><input type="checkbox" name="flavor[]" value="Tiramisu"> Tiramisu</label>
         
                 <input class="btn btn-primary" type="submit" value="Order">
             </form>
